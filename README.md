@@ -13,7 +13,7 @@
     </ol>
   </li>
   <li>
-    Kaggle Profile : https://www.kaggle.com/anandhuh
+   <strong>Kaggle Profile</strong> : https://www.kaggle.com/anandhuh
   </li>
 </ul> 
 
