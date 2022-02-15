@@ -5,7 +5,7 @@
  <li>🌱 I’m currently pursuing <strong>M.Sc Data Science</strong> at <strong>University of Kerala</strong></li>
   <li>💞️ I’m interested in data science and machine learning</li>
   <li>💞️ I’m looking to collaborate on internships on data science</li>
-  <li>🌱 I’m currently learning NLP and Web Scraping</li>
+  <li>🌱 I’m currently learning <strong>NLP</strong> and <strong>Web Scraping</strong></li>
   <li>📫 Feel free to reach me :
      <ol>
        <li>LinkedIn : https://www.linkedin.com/in/anandhuh/</li>
